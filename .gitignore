@@ -1,0 +1,6 @@
+out/
+out-test/
+*.db
+lib/
+.idea/
+.vscode/
